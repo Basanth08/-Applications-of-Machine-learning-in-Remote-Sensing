@@ -1,0 +1,5 @@
+All cells for Problem 2.b have been documented in:
+problem2b_complete_code.txt
+
+This file contains all 44 cells in order.
+You can copy-paste each section into your notebook.
